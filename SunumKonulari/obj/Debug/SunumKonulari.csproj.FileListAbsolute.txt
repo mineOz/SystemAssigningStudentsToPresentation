@@ -1,0 +1,6 @@
+C:\Users\lenovo\Documents\Odevler,Projeler\SunumKonulari\SunumKonulari\bin\Debug\SunumKonulari.exe.config
+C:\Users\lenovo\Documents\Odevler,Projeler\SunumKonulari\SunumKonulari\obj\Debug\SunumKonulari.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Odevler,Projeler\SunumKonulari\SunumKonulari\bin\Debug\SunumKonulari.exe
+C:\Users\lenovo\Documents\Odevler,Projeler\SunumKonulari\SunumKonulari\bin\Debug\SunumKonulari.pdb
+C:\Users\lenovo\Documents\Odevler,Projeler\SunumKonulari\SunumKonulari\obj\Debug\SunumKonulari.exe
+C:\Users\lenovo\Documents\Odevler,Projeler\SunumKonulari\SunumKonulari\obj\Debug\SunumKonulari.pdb
